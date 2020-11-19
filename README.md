@@ -8,7 +8,11 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 
 1. For months of June, after extracting the data and converting it to a list and dataframe, statistical analysis was performed with below results:
 
-![June Temps.png] ()
+![June Temps.png](June Temps.png)
+
+2. For months of December, after extracting the data and converting it to a list and dataframe, statistical analysis was performed with below results:
+
+![December Temps.png](December Temps.png)
 
 ## Summary: 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
