@@ -16,7 +16,7 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 
 3. Below histograms of June and December months data shows the distribution.  Both graphs show peaks at the mean average of ~75.
 
-![June_Temp_Histogram.png](Resources/June_Temp_Historgram.png)
+![June_Temp_Histogram.png](Resources/June_Temp_Histogram.png)
 
 ![Dec_Temp_Histogram.png](Resources/Dec_Temp_Histogram.png)
 
