@@ -4,7 +4,6 @@
 This is an analysis of Hawaii's temperature information stored in SQLite flat file using Python, pandas and sqlalchemy to extract pertinent data.  The queries include extracting data for months of June and December in 2010 - 2017.  
 
 ## Results: 
-Provide a bulleted list with three major points from the two analysis deliverables. Use imaddages as support where needed.
 
 1. For months of June, after extracting the data and converting it to a list and dataframe, statistical analysis was performed with below results:
 
